@@ -25,8 +25,6 @@ img {
 }
 
 #signature {
-  margin-left: 500px;
-  margin-top: 300px;
 }
 
 #logocontainer {
@@ -51,6 +49,11 @@ img {
 p {
   line-height: 16px;
   font-size: 14px;
+}
+
+a {
+  color: #524a47;
+  text-decoration: none;
 }
 
 #name {
@@ -94,8 +97,4 @@ p {
   height: 15px;
   opacity: 0.5;
   display: inline;
-}
-
-a:hover {
-  cursor: crosshair;
 }
