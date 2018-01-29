@@ -1,0 +1,101 @@
+@font-face {
+ font-family: "semibold";
+ src: url("font/foundersgroteskmonoweb-semibold.woff2") format("woff2"),
+      url("font/foundersgroteskmonoweb-semibold.woff") format("woff");
+}
+
+@font-face {
+ font-family: "regular";
+ src: url("font/foundersgroteskmonoweb-regular.woff2") format("woff2"),
+      url("font/foundersgroteskmonoweb-regular.woff") format("woff");
+}
+
+body {
+  display: inline;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.color {
+  color: #ff4d00;
+
+}
+
+#signature {
+  margin-left: 500px;
+  margin-top: 300px;
+}
+
+#logocontainer {
+  display: inline;
+  width: 100px;
+}
+
+#logosize {
+  width: 80px;
+}
+
+#personal {
+  margin-left: -20px;
+}
+
+#type {
+  margin-top: -101px;
+  margin-left: 119px;
+  color: #524a47;
+}
+
+p {
+  line-height: 16px;
+  font-size: 14px;
+}
+
+#name {
+  font-family: "semibold";
+}
+
+#dot {
+  font-family: "semibold";
+}
+
+#title{
+  font-family: "regular";
+  opacity: 1;
+}
+
+#co {
+  font-family: "semibold";
+}
+
+#info{
+  font-family: "regular";
+}
+
+#social{
+  display: inline;
+  position: absolute;
+  margin-left: 123px;
+  margin-top: -7px;
+}
+
+#insta {
+  width: 15px;
+  height: 15px;
+  opacity: 0.5;
+  display: inline;
+}
+
+#in {
+  margin-left: 4px;
+  width: 15px;
+  height: 15px;
+  opacity: 0.5;
+  display: inline;
+}
+
+a:hover {
+  cursor: crosshair;
+}
