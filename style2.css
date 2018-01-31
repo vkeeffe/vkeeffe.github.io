@@ -67,24 +67,24 @@ a#sub {
 }
 
 #name {
-  font-family: "semibold";
+  font-family: "semibold", "Courier New", Courier, monospace;
 }
 
 #dot {
-  font-family: "semibold";
+  font-family: "semibold", "Courier New", Courier, monospace;
 }
 
 #title{
-  font-family: "regular";
+  font-family: "regular", "Courier New", Courier, monospace;
   opacity: 1;
 }
 
 #co {
-  font-family: "semibold";
+  font-family: "semibold", "Courier New", Courier, monospace;
 }
 
 #info{
-  font-family: "regular";
+  font-family: "regular", "Courier New", Courier, monospace;
 }
 
 #social{
