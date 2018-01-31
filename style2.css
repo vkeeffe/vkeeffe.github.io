@@ -79,12 +79,12 @@ a#sub {
 
 #title{
   font-family: "Courier New", Courier, monospace;
-  font-weight: bold;
   opacity: 1;
 }
 
 #co {
   font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
 }
 
 #info{
