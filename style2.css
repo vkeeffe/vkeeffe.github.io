@@ -68,19 +68,21 @@ a#sub {
 
 #name {
   font-family: "semibold", "Courier New", Courier, monospace;
+  font-weight: bold;
 }
 
 #dot {
   font-family: "semibold", "Courier New", Courier, monospace;
+  font-weight: bold;
 }
 
 #title{
   font-family: "regular", "Courier New", Courier, monospace;
-  opacity: 1;
 }
 
 #co {
   font-family: "semibold", "Courier New", Courier, monospace;
+  font-weight: bold;
 }
 
 #info{
