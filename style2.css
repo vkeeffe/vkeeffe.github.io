@@ -45,8 +45,8 @@ img {
 }
 
 #type {
-  margin-top: -92px;
-  margin-left: 119px;
+  margin-top: 6px;
+  margin-left: 23px;
   color: #524a47;
   display: flex;
 }
@@ -56,8 +56,13 @@ p {
   font-size: 14px;
 }
 
-a {
+a#web {
   color: #524a47;
+  text-decoration: none;
+}
+
+a#sub {
+  color: #ff4d00;
   text-decoration: none;
 }
 
