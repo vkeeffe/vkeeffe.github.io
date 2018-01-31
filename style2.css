@@ -68,27 +68,27 @@ a#sub {
 }
 
 #name {
-  font-family: "semibold", "Courier New", Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   font-weight: bold;
 }
 
 #dot {
-  font-family: "semibold", "Courier New", Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   font-weight: bold;
 }
 
 #title{
-  font-family: "regular", "Courier New", Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   font-weight: bold;
   opacity: 1;
 }
 
 #co {
-  font-family: "semibold", "Courier New", Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #info{
-  font-family: "regular", "Courier New", Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 #social{
