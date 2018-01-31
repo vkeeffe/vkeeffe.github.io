@@ -78,11 +78,11 @@ a#sub {
 
 #title{
   font-family: "regular", "Courier New", Courier, monospace;
+  opacity: 1;
 }
 
 #co {
   font-family: "semibold", "Courier New", Courier, monospace;
-  font-weight: bold;
 }
 
 #info{
