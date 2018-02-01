@@ -28,11 +28,9 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 500px;
 }
 
 #logocontainer {
-  display: inline;
   width: 100px;
   display: flex;
 }
@@ -69,12 +67,10 @@ a#sub {
 
 #name {
   font-family: "Courier New", Courier, monospace;
-  font-weight: bold;
 }
 
 #dot {
   font-family: "Courier New", Courier, monospace;
-  font-weight: bold;
 }
 
 #title{
@@ -84,31 +80,8 @@ a#sub {
 
 #co {
   font-family: "Courier New", Courier, monospace;
-  font-weight: bold;
 }
 
 #info{
   font-family: "Courier New", Courier, monospace;
-}
-
-#social{
-  display: inline;
-  position: absolute;
-  margin-left: 123px;
-  margin-top: -7px;
-}
-
-#insta {
-  width: 15px;
-  height: 15px;
-  opacity: 0.5;
-  display: inline;
-}
-
-#in {
-  margin-left: 4px;
-  width: 15px;
-  height: 15px;
-  opacity: 0.5;
-  display: inline;
 }
