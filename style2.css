@@ -10,14 +10,7 @@
       url("font/foundersgroteskmonoweb-regular.woff") format("woff");
 }
 
-body {
-  display: inline;
-}
 
-img {
-  width: 100px;
-  height: 100px;
-}
 
 .color {
   color: #ff4d00;
@@ -27,27 +20,25 @@ img {
 #signature {
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 
 #logocontainer {
   width: 100px;
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #logosize {
   width: 80px;
 }
 
-#personal {
-  margin-left: -20px;
-}
 
 #type {
-  margin-top: 6px;
-  margin-left: 23px;
   color: #524a47;
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 p {
